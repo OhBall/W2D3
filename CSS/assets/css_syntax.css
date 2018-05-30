@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: aquamarine
+}
+
+h1{
+  font-size: 38px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+.ingredients-list{
+  margin-left: 20px;
+  list-style: square inside;
+}
+
+ol{
+  margin-left: 20px;
+  list-style: disc;
+}
+
+header > img {
+  width: 100px
+}
+
+ul > li > a {
+  text-decoration: none;
+}
+
+.user_review{
+  font-family: fantasy;
+  font-style: italic;
+}
